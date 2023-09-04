@@ -59,7 +59,7 @@ To run the Coffee Machine Simulator, you need to have the following:
 
 ## Author
 
-👤 **Ajinkya Padule**
+👤 **Ritesh Kr. Thakur**
 
 * GitHub: [kt-ritesh](https://github.com/kt-ritesh)
 
